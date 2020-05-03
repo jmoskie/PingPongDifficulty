@@ -18,3 +18,6 @@ So when we use this mod to play, the "weakest" player should be using the Deity 
 | Emperor  | +8%  | +1%  | 0  | 0  | 30 |
 | King  | +0%  | +0%  | 0  | 0  | 30 |
 | Prince  | -8%  | -1%  | 0  | 0  | 30 |
+| Warlord  | -16%  | -2%  | 0  | 0  | 30 |
+| Chieftain  | -24%  | -4%  | 0  | 0  | 30 |
+| Settler  | -32%  | -8%  | 0  | 0  | 30 |
